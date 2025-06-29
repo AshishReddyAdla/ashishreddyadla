@@ -1,0 +1,1 @@
+Java is a powerful programming language used in many enterprise applications.
